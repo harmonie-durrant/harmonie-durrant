@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, and javascript**
 
-- 👨‍💻 All of my projects are available at [reubanbryenton.com](https://www.reubanbryenton.com/)
+- 👨‍💻 All of my projects are available at [harmoniedurrant.com](https://www.harmoniedurrant.com/)
 
 - 📫 How to reach me **h.bryenton2003@gmail.com**
 

@@ -7,14 +7,14 @@
 
 - 👨‍💻 All of my projects are available at [harmoniedurrant.com](https://www.harmoniedurrant.com/)
 
-- 📫 How to reach me **h.bryenton2003@gmail.com**
+- 📫 How to reach me **harmoniedurrant@gmail.com**
 
 - ⚡ Fun fact **I don't like coffee !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harmonie-durrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmonie durrant linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/harmonie_drnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reuban_bryenton" height="30" width="40" /></a>
+<a href="https://instagram.com/harmonie_drnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmonie_drnt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages + Tools I'm Actively Learning:</h3>
@@ -120,9 +120,9 @@
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harmonie-durrant&count_private=true&show_icons=true&locale=en" alt="reuban-bryenton" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harmonie-durrant&count_private=true&show_icons=true&locale=en" alt="harmonie-durrant" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonie-durrant&count_private=true" alt="reuban-bryenton" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonie-durrant&count_private=true" alt="harmonie-durrant" />
 </p>

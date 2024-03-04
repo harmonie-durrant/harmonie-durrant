@@ -37,4 +37,6 @@
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmonie-durrant&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+<a href="https://app.daily.dev/harmonie_drnt"><img src="https://api.daily.dev/devcards/v2/wAykgeyhvHLS6d1IEEDUm.png?r=ozf&type=wide" width="652" alt="Harmonie Durrant's Dev Card"/></a>
+
 </div>

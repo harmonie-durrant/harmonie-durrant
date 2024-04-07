@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently a student at [42 Perpignan](https://42perpignan.fr/).
 - 🌱 I’m passionate about [NextJS](https://nextjs.org/) and Web Development in general.
-- 📝 I’m aiming to write **one article per month**.
-- 🏆 I'm striving to increase my knowledge in C# to expand my job opertunities.
+- 🏆 I'm striving to increase my knowledge in C++ to expand my job opertunities.
 - ⚡ Fun fact: I don't like coffee!
 
 <div align="center">

@@ -27,6 +27,8 @@ A website made with the goal to lean about REST API's and SQL databases. with Ex
 
 </div>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/harmonie?theme=unicorn&font=Lateef&site=cn)
+
 ## 💻 My Favourite Technologies:
 
 [![Notion; Next.js, TailwindCSS](https://skillicons.dev/icons?i=notion,next,tailwind)](https://skillicons.dev)

@@ -22,7 +22,7 @@ A website made with the goal to lean about REST API's and SQL databases. with Ex
 
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/harmonie?theme=unicorn&font=Lateef&site=cn)
+<div align="center">
 
 ## 💻 My Favourite Technologies:
 

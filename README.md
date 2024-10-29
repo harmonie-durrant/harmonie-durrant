@@ -1,9 +1,9 @@
 [![c,cs,cpp,html,css,js,nodejs,react,next,tailwind,threejs,mysql,flutter,discordjs,py,lua,bash,md](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,nodejs,react,next,tailwind,threejs,mysql,flutter,discordjs,py,lua,bash,md&perline=9)](https://skillicons.dev)
 
 
-- 🔭 Currently living in perpignan studying computer science at 42.
-- 🌱 Passionate about new technology to automate mundane tasks.
-- 🏆 Currently learning C++, next up is Java!
+- 🔭 Currently studying computer science at 42Perpignan.
+- 🌱 Passionate about networking and web development.
+- 🏆 Currently learning C++ and Docker!
 - ⚡ Fun fact: I don't like coffee!
 
 <div align="center">

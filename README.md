@@ -12,11 +12,15 @@
 
 <div align="left">
 
+### ft_irc
+An IRC server made in a group of 3 at 42Perpignan. The goal, to learn how web sockets work. It is one of the first C++ projects of the cursus.
+<a href="https://github.com/harmonie-durrant/ft_irc">Check it out !</a>
+
 ### links.harmoniedurrant.com
 A website I made with a list of links to be in the style of linktree. It is a place where I have all my social medias and some projects listed. There is also an interactive 3d background to enjoy!
 <a href="https://links.harmoniedurrant.com">Check it out !</a>
 
-### mytodo (or epytodo)
+### mytodo (AKA: epytodo)
 A website made with the goal to lean about REST API's and SQL databases. with ExpressJS I made JWT tokens to authenticate users and make todo lists that get stored in the SQL database. You can run it yourself using node.js.
 <a href="https://github.com/harmonie-durrant/mytodo">Check it out !</a>
 

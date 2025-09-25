@@ -13,9 +13,13 @@
 
 <div align="left">
 
-### Open Meteo Visualizer
-An interactive weather forecast using the public Open Metéo public API to show you different stats about the forecast of a city.
-<a href="https://github.com/harmonie-durrant/open-meteo-visualizer">Check it out !</a>
+### Mini LIMS
+A project where I learn about making a basic LIMS software using python, sql, and javascript, with deployment, test, and migration scripts.
+<a href="https://github.com/harmonie-durrant/mini-lims">Check it out !</a>
+
+### Voxel Game Threejs
+A voxel game made with threejs, inspired by minecraft.
+<a href="https://github.com/harmonie-durrant/voxel-game-threejs">Check it out !</a>
 
 ### ft_irc
 An IRC server made in a group of 3 at 42Perpignan. The goal, to learn how web sockets work. It is one of the first C++ projects of the cursus.

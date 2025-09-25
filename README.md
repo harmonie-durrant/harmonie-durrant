@@ -2,10 +2,10 @@
 
 
 - 🔭 Currently studying computer science at 42Perpignan.
-- 🌱 Passionate about networking and web development.
+- 🌱 Passionate about networking, robotics and web development.
 - 🏆 Currently learning full-stack web development, and C++.
-- 🕹️ In my spare time I make video games
-- ⚡ Fun fact: I don't like coffee!
+- 🕹️ In my spare time I tinker with my home server & smart home (home assistant)
+- ⚡ Fun fact: I don't like coffee! (probably because I am british 🍵)
 
 <div align="center">
 

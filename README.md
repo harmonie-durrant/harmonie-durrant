@@ -35,15 +35,19 @@ A website I made with a list of links to be in the style of linktree. It is a pl
 
 ## 💻 My Favourite Technologies:
 
-[![Notion; Next.js, TailwindCSS](https://skillicons.dev/icons?i=notion,next,tailwind)](https://skillicons.dev)
+[![Notion, Next.js, TailwindCSS](https://skillicons.dev/icons?i=notion,next,tailwind)](https://skillicons.dev)
 
 ## 👩‍🎓 What I am currently learning at 42 School:
 
+Core curriculum
 [![Linux, C, CPP, Bash](https://skillicons.dev/icons?i=linux,c,cpp,bash)](https://skillicons.dev)
+
+Internship @ Banto
+[![HTML, CSS, Typescript, Next.js, TailwindCSS](https://skillicons.dev/icons?i=html,css,ts,next,tailwind)](https://skillicons.dev)
 
 ## 🏠 What I am currently learning at Home:
 
-[![React Next.js, TailwindCSS](https://skillicons.dev/icons?i=react,next,tailwind)](https://skillicons.dev)
+[![React, Next.js, TailwindCSS, Docker](https://skillicons.dev/icons?i=react,next,tailwind,docker)](https://skillicons.dev)
 
 ## 👩‍💻 Tools I use:
 

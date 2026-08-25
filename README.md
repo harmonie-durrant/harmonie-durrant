@@ -13,9 +13,9 @@
 
 <div align="left">
 
-### Mini LIMS
-A project where I learn about making a basic LIMS software using python, sql, and javascript, with deployment, test, and migration scripts.
-<a href="https://github.com/harmonie-durrant/mini-lims">Check it out !</a>
+### Recept OCR
+Using Local OCR in node to obfuscate personal data when parsing recepts to AI.
+<a href="https://github.com/harmonie-durrant/harmonie-recept-ocr">Check it out !</a>
 
 ### Voxel Game Threejs
 A voxel game made with threejs, inspired by minecraft.

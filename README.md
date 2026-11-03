@@ -13,9 +13,9 @@
 
 <div align="left">
 
-### Recept OCR
-Using Local OCR in node to obfuscate personal data when parsing recepts to AI.
-<a href="https://github.com/harmonie-durrant/harmonie-recept-ocr">Check it out !</a>
+### Harmonie's Infinite Minesweeper
+An infinite minesweeper board (with some unique features), try to beat your high score !
+<a href="https://github.com/harmonie-durrant/harmonies-infinite-minesweeper">Check it out !</a>
 
 ### Voxel Game Threejs
 A voxel game made with threejs, inspired by minecraft.
